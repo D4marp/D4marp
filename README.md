@@ -89,7 +89,7 @@
     src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,flutter,php,mysql,postgresql,python"
   />
   <img
-    src="https://skillicons.dev/icons?i=cpp,vscode,github,gitlab,git,figma,laravel,postman,firebase"
+    src="https://skillicons.dev/icons?i=tensorflow,vscode,github,gitlab,git,figma,laravel,postman,firebase,mlkit"
   /><br /><br />
 </div>
 
