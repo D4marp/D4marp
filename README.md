@@ -9,7 +9,7 @@
   />
 </h1>
 
-<h3 align="center">A passionate fullstack mobile or web developer from Indonesia</h3>
+<h3 align="center">A passionate Fullstack Mobile & Web Developer from Indonesia</h3>
 
 <br/>
 
@@ -20,12 +20,10 @@
   align="right"
 />
 
-- 🌱 I’m currently learning **Flutter , Laravel, AI**
-- 📄 Know about my experiences [my-cv](https://drive.google.com/file/d/1lJwMe2vBKb4xEB-PGe-0MS0FwMZJZakg/view?usp=sharing)
-
-- ⚡ Fun fact **I think i'm funny**
-- 💬 Ask me about **Laravel, PHP, Flutter**
-
+- 🌱 Currently learning and growing in **Flutter, Laravel & AI Development**
+- 📄 Check out my experience and projects in my [CV](https://drive.google.com/file/d/1lJwMe2vBKb4xEB-PGe-0MS0FwMZJZakg/view?usp=sharing)
+- 💬 Feel free to ask me about **Flutter, Laravel, or anything about Mobile & Web Development**
+- ⚡ Fun fact: **I love coding as much as I love bad jokes**
 
 <div>
   <a href="mailto:praaji12@gmail.com">
