@@ -99,9 +99,8 @@
 <br />
 <div align="center">
  
-  <img
-    width="350"
-    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=D4marp&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
-    alt="top langs"
-  />
+ <a href="https://github.com/D4marp/github-stats">
+<img src="https://github.com/D4marp/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/D4marp/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 </div>
