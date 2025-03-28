@@ -5,11 +5,11 @@
 
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F59E0B&duration=4000&lines=Hi+There!+👋;+I'm+Miftahul+Ulyana+Hutabarat!;"
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F59E0B&duration=4000&lines=Hi+There!+👋;+I'm+Damar+Galih+Aji+Pradana!;"
   />
 </h1>
 
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<h3 align="center">A passionate fullstack mobile or web developer from Indonesia</h3>
 
 <br/>
 
@@ -21,14 +21,14 @@
 />
 
 - 🌱 I’m currently learning **Vue js, Docker, AWS**
-- 📄 Know about my experiences [my-cv](https://drive.google.com/file/d/15fNHEjYbANfMRinmoJJUanNB-5QJQwLn/view?usp=sharing)
+- 📄 Know about my experiences [my-cv](https://drive.google.com/file/d/1lJwMe2vBKb4xEB-PGe-0MS0FwMZJZakg/view?usp=sharing)
 
 - ⚡ Fun fact **I think i'm funny**
-- 💬 Ask me about **Laravel, PHP, Python**
+- 💬 Ask me about **Laravel, PHP, Flutter**
 
 
 <div>
-  <a href="mailto:mifthulyn07@gmail.com">
+  <a href="mailto:praaji12@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
     />
@@ -95,7 +95,7 @@
 <br />
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,vue,jquery,php,mysql,java,python"
+    src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,flutter,php,mysql,postgresql,python"
   />
   <img
     src="https://skillicons.dev/icons?i=cpp,vscode,github,gitlab,git,figma,laravel,postman,firebase"
