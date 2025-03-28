@@ -100,11 +100,7 @@
 <h3 align="center">⚡ Stats ⚡</h3>
 <br />
 <div align="center">
-  <img
-    width="390"
-    src="https://streak-stats.demolab.com/?user=mifthulyn07&theme=omni&border_radius=10&size_weight=0.5&count_weight=0.5)](https://git.io/streak-stats"
-    alt="readme stats"
-  />
+ 
   <img
     width="350"
     src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=D4marp&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
