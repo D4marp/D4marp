@@ -58,7 +58,7 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="mifthulyn07"
+      alt="D4marp"
       height="30"
       width="40"
   /></a>
@@ -99,8 +99,16 @@
 <br />
 <div align="center">
  
- <a href="https://github.com/D4marp/github-stats">
-<img src="https://github.com/D4marp/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/D4marp/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+ <img
+  width="390"
+  src="https://streak-stats.demolab.com/?user=D4marp&theme=omni&border_radius=10&size_weight=0.5&count_weight=0.5"
+  alt="GitHub Streak"
+/>
+
+<img
+  width="350"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4marp&hide=html&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+  alt="Top Languages"
+/>
+
 </div>
