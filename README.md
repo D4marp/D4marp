@@ -20,7 +20,7 @@
   align="right"
 />
 
-- 🌱 Currently learning and growing in **Flutter, Laravel & AI Development**
+- 🌱 Currently learning and growing in **Flutter,Next, Laravel & AI Development**
 - 📄 Check out my experience and projects in my [CV](https://drive.google.com/file/d/1lJwMe2vBKb4xEB-PGe-0MS0FwMZJZakg/view?usp=sharing)
 - 💬 Feel free to ask me about **Flutter, Laravel, or anything about Mobile & Web Development**
 - ⚡ Fun fact: **I love coding as much as I love bad jokes**
