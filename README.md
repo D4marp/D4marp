@@ -1,109 +1,53 @@
-<img
-  align="right"
-  src="https://visitor-badge.laobi.icu/badge?page_id=D4marp.D4marp"
-/>
-
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=567DF4&duration=4000&lines=Hi+There!+👋;+I'm+Damar+Galih+Aji+Pradana!;"
-  />
-</h1>
-
-<h3 align="center">A passionate Fullstack Mobile & Web Developer from Indonesia</h3>
-
-<br/>
-
-<img
-  src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif"
-  alt="woman-in-tech"
-  width="300"
-  align="right"
-/>
-
-- 🌱 Currently learning and growing in **Flutter,Next, Laravel & AI Development**
-- 📄 Check out my experience and projects in my [CV](https://drive.google.com/file/d/1pS0kDbcfXDuQtuElh-lAw99im35yulho/view?usp=sharing)
-- 💬 Feel free to ask me about **Flutter, Laravel, or anything about Mobile & Web Development**
-- ⚡ Fun fact: **I love coding as much as I love bad jokes**
-
-<div>
-  <a href="mailto:praaji12@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/damargalihajipradana/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank"
-    />
-  </a>
-<!--   <a
-    href="https://d4marp.github.io/portofolio-with-tailwind"
-    target="_blank"
-  >
-    <img
-      src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
-      target="_blank"
-    /> -->
-    <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
-<br />
-
-<h3>🧲Connect with me:</h3>
-<p>
- 
-  <a href="https://instagram.com/galihpradana_mar" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="D4marp"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://damargalih12.medium.com" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-      alt="@mifthulyn07"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.hackerrank.com/damargalihajipr1" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="mifthulyn07"
-      height="30"
-      width="40"
-  /></a>
+<!-- Profile Visitor Badge -->
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=D4marp.D4marp" />
 </p>
 
-<hr />
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=567DF4&duration=4000&lines=Hi+There!+👋;+I'm+Damar+Galih+Aji+Pradana!;" alt="Typing Header" />
+</h1>
 
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
-<br />
+<p align="center"><i>A passionate Fullstack Mobile & Web Developer from Indonesia</i></p>
+
+---
+
+<img src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" alt="Coding Fun" width="270" align="right" />
+
+- 🌱 Currently learning & growing: **Flutter, Next.js, Laravel & AI Development**
+- 📄 My experience in detail on my [CV](https://drive.google.com/file/d/1pS0kDbcfXDuQtuElh-lAw99im35yulho/view?usp=sharing)
+- 💬 Ask me anything about **Flutter, Laravel, Mobile & Web Dev**
+- ⚡ Fun Fact: **I love coding as much as telling bad jokes!**
+
+---
+
+### 📬 Contact Me
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:praaji12@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damargalihajipradana/)
+
+### 🌎 Connect & Social
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" alt="Instagram" />](https://instagram.com/galihpradana_mar)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" alt="Medium" />](https://damargalih12.medium.com)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" alt="Hackerrank" />](https://www.hackerrank.com/damargalihajipr1)
+
+---
+
+## ⚒️ Languages · Frameworks · Tools
+
 <div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,flutter,php,mysql,postgresql,python"
-  />
-  <img
-    src="https://skillicons.dev/icons?i=tensorflow,vscode,github,gitlab,git,figma,laravel,postman,firebase,mlkit"
-  /><br /><br />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,flutter,php,mysql,postgresql,python" /><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,vscode,github,gitlab,git,figma,laravel,postman,firebase,mlkit" />
 </div>
 
-<hr />
+---
 
-<h3 align="center">⚡ Stats ⚡</h3>
-<br />
+## 📊 GitHub Stats
+
 <div align="center">
- 
-
-<img
-  width="350"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4marp&hide=html&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
-  alt="Top Languages"
-/>
-
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4marp&hide=html&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
+
+---
+
+<p align="center"><b>Thanks for visiting! 🚀</b></p>
