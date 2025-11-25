@@ -4,38 +4,38 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&center=true&vCenter=true&width=500&height=70&color=567DF4&duration=4000&lines=Halo%2C+Saya+Damar+Galih+Aji+Pradana!;Fullstack+Mobile+%26+Web+Developer;Berfokus+pada+Flutter%2C+Next.js%2C+Laravel%2C+dan+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&center=true&vCenter=true&width=500&height=70&color=567DF4&duration=4000&lines=Hi%2C+I%27m+Damar+Galih+Aji+Pradana!;Fullstack+Mobile+%26+Web+Developer;Passionate+about+Flutter%2C+Next.js%2C+Laravel%2C+AI" />
 </h1>
 
-<p align="center"><i>Saya seorang pengembang perangkat lunak yang berfokus pada solusi end-to-end, berpengalaman di Mobile & Web, dan bersemangat membangun produk digital yang berdampak.</i></p>
+<p align="center"><i>I am a software engineer specializing in end-to-end solutions. Experienced in Mobile & Web development, passionate about impactful digital products and continuous learning.</i></p>
 
 ---
 
 <img src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" alt="Coding Fun" width="270" align="right" />
 
-### Tentang Saya
+### About Me
 
-- 🎯 Saya seorang Fullstack Developer dengan minat pada **Flutter, Next.js, Laravel, dan AI Development**
-- 📚 Aktif mempelajari teknologi terbaru dan berupaya menerapkan best practice di setiap proyek.
-- 💼 Portofolio & pengalaman dapat dilihat di [CV Saya](https://drive.google.com/file/d/1pS0kDbcfXDuQtuElh-lAw99im35yulho/view?usp=sharing)
-- 🗣️ Terbuka untuk diskusi tentang **Mobile/Web Development, Framework, atau Project Kolaborasi**
-- 🎉 Fun Fact: Saya percaya belajar dan berbagi adalah kunci berkembang bersama.
+- 🚀 Fullstack Developer focused on **Flutter, Next.js, Laravel, and AI Development**
+- 📚 Dedicated to mastering new technologies and applying best practices to every project
+- 💼 Explore my experience and portfolio in [My CV](https://drive.google.com/file/d/1pS0kDbcfXDuQtuElh-lAw99im35yulho/view?usp=sharing)
+- 💬 Open to discussions on **Mobile/Web Development, Frameworks, or Collaboration Projects**
+- 🎉 Fun Fact: Learning and sharing are my keys to growth
 
 ---
 
-### 📫 Hubungi Saya
+### 📫 Get In Touch
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:praaji12@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damargalihajipradana/)
 
-#### Media & Jaringan Lain
+#### Social Networks & Communities
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" alt="Instagram" />](https://instagram.com/galihpradana_mar)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" alt="Medium" />](https://damargalih12.medium.com)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" alt="Hackerrank" />](https://www.hackerrank.com/damargalihajipr1)
 
 ---
 
-## ⚒️ Tools, Frameworks & Teknologi
+## ⚒️ Languages · Frameworks · Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,flutter,php,mysql,postgresql,python" /><br>
@@ -44,12 +44,27 @@
 
 ---
 
-## 🚀 Statistik & Aktivitas GitHub
+## 📊 GitHub Statistics & Activity
 
 <div align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4marp&hide=html&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+
+<!-- GitHub Stats Cards (May error due to API/Ratelimit, as explained above) -->
+<img src="https://github-readme-stats.vercel.app/api?username=D4marp&show_icons=true&theme=vision-friendly-dark&border_radius=10" alt="GitHub Stats" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=D4marp&theme=vision-friendly-dark&border_radius=10" alt="GitHub Streak" width="400"/>
+
+<!-- If the above shows API errors, you may comment them out and use a simple text list -->
 </div>
+
+<!-- If error -->
+<!--
+### Most Used Languages (Manual Preview)
+- Dart & Flutter
+- JavaScript & React
+- PHP & Laravel
+- Python
+- SQL (PostgreSQL, MySQL)
+-->
 
 ---
 
-<p align="center"><b>Terima kasih telah berkunjung ke profil saya. Mari berjejaring & tumbuh bersama! 🚀</b></p>
+<p align="center"><b>Thank you for visiting my GitHub profile! Let's connect and grow together 🚀</b></p>
