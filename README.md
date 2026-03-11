@@ -46,25 +46,6 @@
 
 ## 📊 GitHub Statistics & Activity
 
-<div align="center">
 
-<!-- GitHub Stats Cards (May error due to API/Ratelimit, as explained above) -->
-<img src="https://github-readme-stats.vercel.app/api?username=D4marp&show_icons=true&theme=vision-friendly-dark&border_radius=10" alt="GitHub Stats" width="400"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=D4marp&theme=vision-friendly-dark&border_radius=10" alt="GitHub Streak" width="400"/>
-
-<!-- If the above shows API errors, you may comment them out and use a simple text list -->
-</div>
-
-<!-- If error -->
-<!--
-### Most Used Languages (Manual Preview)
-- Dart & Flutter
-- JavaScript & React
-- PHP & Laravel
-- Python
-- SQL (PostgreSQL, MySQL)
--->
-
----
 
 <p align="center"><b>Thank you for visiting my GitHub profile! Let's connect and grow together 🚀</b></p>
