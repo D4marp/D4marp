@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&center=true&vCenter=true&width=500&height=70&color=567DF4&duration=4000&lines=Hi%2C+I%27m+Damar+Galih+Aji+Pradana!;Fullstack+Mobile+%26+Web+Developer;Passionate+about+Flutter%2C+Next.js%2C+Laravel%2C+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&center=true&vCenter=true&width=500&height=70&color=567DF4&duration=4000&lines=Hi%2C+I%27m+Damar+Galih+Aji+Pradana!; Fullstack+Mobile+%26+Web+Developer;Passionate+about+Flutter%2C+Next.js%2C+Laravel%2C+AI" />
 </h1>
 
 <p align="center"><i>I am a software engineer specializing in end-to-end solutions. Experienced in Mobile & Web development, passionate about impactful digital products and continuous learning.</i></p>
