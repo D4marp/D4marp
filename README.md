@@ -17,7 +17,8 @@
 
 - 🚀 Fullstack Developer focused on **Flutter, Next.js, Laravel, and AI Development**
 - 📚 Dedicated to mastering new technologies and applying best practices to every project
-- 💼 Explore my experience and portfolio in [My CV](https://drive.google.com/file/d/1pS0kDbcfXDuQtuElh-lAw99im35yulho/view?usp=sharing)
+- 💼 Explore my experience and portfolio in [My CV](https://drive.google.com/file/d/1P1mAMerhswelMy1_YFVAFclTauOrncJt/view?usp=sharing)
+- 💼 Explore my experience and portfolio in [My Portofolio]([https://drive.google.com/file/d/1pS0kDbcfXDuQtuElh-lAw99im35yulho/view?usp=sharing](https://drive.google.com/file/d/10hKFMDle8xnhJWoTXi-yj8nFCtltnBRC/view?usp=sharing)
 - 💬 Open to discussions on **Mobile/Web Development, Frameworks, or Collaboration Projects**
 - 🎉 Fun Fact: Learning and sharing are my keys to growth
 
